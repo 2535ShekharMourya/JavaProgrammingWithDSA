@@ -13,11 +13,11 @@ public class OperatorAndAsignment {
         }
 
 /*
-  if we apply any arithmatic operation between to variable a and b then Resultant type always Max
+  if we apply any arithmatic operation between to variables a and b then Resultant type always Max
    Ex is below
  */
         byte n = 10, m = 20;
-        byte p = (byte) (n + m);
+        byte p = (byte) (n + m); // byte + byte =int  or
 
         final int v = 10;
         //  v++; error : cannot assign value to the final 'v'
@@ -46,6 +46,7 @@ public class OperatorAndAsignment {
         int n1 = 2, n2 = 2;
         System.out.println(n1 + n2);
         System.out.println("azad" + "shekhar");
+        System.out.println();
         String name = "azad";
         int n3 = 30, n4 = 10, n5 = 20;
         System.out.println(name + n3 + n4 + n5);

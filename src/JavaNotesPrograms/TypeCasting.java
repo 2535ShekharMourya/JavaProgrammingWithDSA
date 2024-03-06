@@ -19,7 +19,7 @@ public class TypeCasting {
         int num2,num3,num4;
         int num5=num2=num3=num4=30;
         System.out.println(num5+" "+num4+" "+num3+" "+num2);
-       // int number=number3=number4=number5=40; error : cannot resolve symbol number3,4,5 so we can't do this during declaration time
+      //  int number=number3=number4=number5=40; //error : cannot resolve symbol number3,4,5 so we can't do this during declaration time
         int comp=20; // compound assignment
         comp+=comp;
         System.out.println(comp);
