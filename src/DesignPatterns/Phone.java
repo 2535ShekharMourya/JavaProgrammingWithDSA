@@ -1,4 +1,4 @@
-package JavaCunstructorAndDesignPatterns;
+package DesignPatterns;
 
 public class Phone {
     private String os;

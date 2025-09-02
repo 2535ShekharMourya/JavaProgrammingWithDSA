@@ -1,4 +1,4 @@
-package JavaCunstructorAndDesignPatterns;
+package DesignPatterns;
 // 1. Constructor must be private
 // 2. object create with the help of method
 // 3. create field or property to store object is private

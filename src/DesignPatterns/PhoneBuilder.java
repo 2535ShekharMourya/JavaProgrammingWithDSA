@@ -1,6 +1,4 @@
-package JavaCunstructorAndDesignPatterns;
-
-import javax.swing.*;
+package DesignPatterns;
 
 public class PhoneBuilder {
     private String os;

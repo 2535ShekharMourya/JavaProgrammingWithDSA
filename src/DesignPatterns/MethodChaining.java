@@ -1,4 +1,4 @@
-package JavaCunstructorAndDesignPatterns;
+package DesignPatterns;
 
 class Student1 {
     private String name;

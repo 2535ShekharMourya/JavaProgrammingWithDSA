@@ -1,4 +1,4 @@
-package JavaCunstructorAndDesignPatterns;
+package DesignPatterns;
 
 public class Jalebi {
     private static Jalebi jalebi=new Jalebi();
